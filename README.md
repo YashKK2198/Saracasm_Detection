@@ -25,11 +25,13 @@ Sarcasm detection in news headlines is a challenging natural language processing
 
 ## Project Structure
 
-- `RoBERTa_Model.ipynb`: Jupyter Notebook containing the code for the RoBERTa approach.
-- `CNN_Model.ipynb`: Jupyter Notebook containing the code for the CNN approach.
-- `data/`: Directory containing the dataset used for training and evaluation.
-- `new_yash_model/`: Directory where trained models are saved.
+- `News_Headlines_Sarcasm_Detection`: Jupyter Notebook containing the code for the RoBERTa and CNN approach.
+- `News_Headlines_Sarcasm_Detection.pdf`: PDF file for evaluation the code and results.
 - `README.md`: This README file.
+## Models
+
+- [RoBERTa Model](https://drive.google.com/file/d/1xXvHEZn_9d-XcTa4aFhvjBCZmTVCMuz7/view?usp=drive_link)
+- [CNN Model](https://drive.google.com/file/d/1xXvHEZn_9d-XcTa4aFhvjBCZmTVCMuz7/view?usp=drive_link)
 
 ## Getting Started
 
