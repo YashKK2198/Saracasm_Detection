@@ -25,8 +25,8 @@ Sarcasm detection in news headlines is a challenging natural language processing
 
 ## Models
 
-- [RoBERTa Model](https://drive.google.com/file/d/1xXvHEZn_9d-XcTa4aFhvjBCZmTVCMuz7/view?usp=drive_link)
-- [CNN Model](https://drive.google.com/file/d/1xXvHEZn_9d-XcTa4aFhvjBCZmTVCMuz7/view?usp=drive_link)
+- [RoBERTa Model](https://drive.google.com/file/d/15B6qIOD3sf9g-D4UUo0G8DQ7EES49H2f/view?usp=drive_link)
+- [CNN Model](https://drive.google.com/file/d/15B6qIOD3sf9g-D4UUo0G8DQ7EES49H2f/view?usp=drive_link)
 
 ## Project Structure
 
