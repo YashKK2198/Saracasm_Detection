@@ -23,15 +23,17 @@ This project aims to detect sarcasm in news headlines using two different machin
 
 Sarcasm detection in news headlines is a challenging natural language processing (NLP) task. This project explores two different machine learning models to address this problem: RoBERTa, a transformer-based model, and CNN, a Convolutional Neural Network.
 
+## Models
+
+- [RoBERTa Model](https://drive.google.com/file/d/1xXvHEZn_9d-XcTa4aFhvjBCZmTVCMuz7/view?usp=drive_link)
+- [CNN Model](https://drive.google.com/file/d/1xXvHEZn_9d-XcTa4aFhvjBCZmTVCMuz7/view?usp=drive_link)
+
 ## Project Structure
 
 - `News_Headlines_Sarcasm_Detection`: Jupyter Notebook containing the code for the RoBERTa and CNN approach.
 - `News_Headlines_Sarcasm_Detection.pdf`: PDF file for evaluation the code and results.
 - `README.md`: This README file.
-## Models
 
-- [RoBERTa Model](https://drive.google.com/file/d/1xXvHEZn_9d-XcTa4aFhvjBCZmTVCMuz7/view?usp=drive_link)
-- [CNN Model](https://drive.google.com/file/d/1xXvHEZn_9d-XcTa4aFhvjBCZmTVCMuz7/view?usp=drive_link)
 
 ## Getting Started
 
